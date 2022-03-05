@@ -6,4 +6,7 @@
 2022-03-05 
 
 ● first commit<br>
-● 프로젝트 생성, index.js, index.html 기본 구성
+● 프로젝트 생성, index.js, index.html 기본 구성<br>
++)<br>
+● App.js, HadnIcon.js, HandButton.js 생성<br>
+● 가위바위보 버튼 구현
